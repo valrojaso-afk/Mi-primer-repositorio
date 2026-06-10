@@ -8,5 +8,5 @@ Este es mi primer proyecto en GitHub.
 - Colaborar con otros
 
 ### Autor
--Nombre: Valesca Rojas
--Carrera: Ingenieria en Informatica
+- Nombre: Valesca Rojas
+- Carrera: Ingenieria en Informatica
