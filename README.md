@@ -10,3 +10,8 @@ Este es mi primer proyecto en GitHub.
 ### Autor
 - Nombre: Valesca Rojas
 - Carrera: Ingenieria en Informatica
+
+#### ¿En que se trabajara?
+- Realizar ramas
+- creacion de repositorio personal
+- creacion de repositorio colaborativo
